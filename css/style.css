@@ -3691,8 +3691,10 @@ img.liquid {
 	padding: 0;
 	margin: 0;
 	padding-top: 18px;
-	width: 112px;
-	height: 50px;
+	width: 295px;
+	height: 57px;
+	top: 0px;
+	left: 7px;
 }
 .social-links li {
 	display:inline;
